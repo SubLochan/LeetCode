@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SubLochan/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SubLochan/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3668-restore-finishing-order](https://github.com/SubLochan/LeetCode/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SubLochan/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/SubLochan/LeetCode/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
