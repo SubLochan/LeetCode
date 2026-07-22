@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/SubLochan/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/SubLochan/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/SubLochan/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SubLochan/LeetCode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/SubLochan/LeetCode/tree/master/0344-reverse-string) |
+| [3794-reverse-string-prefix](https://github.com/SubLochan/LeetCode/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
