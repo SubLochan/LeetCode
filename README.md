@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/SubLochan/LeetCode/tree/master/0060-permutation-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SubLochan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SubLochan/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SubLochan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SubLochan/LeetCode/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/SubLochan/LeetCode/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/SubLochan/LeetCode/tree/master/3794-reverse-string-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/SubLochan/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
