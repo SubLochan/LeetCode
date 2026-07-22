@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SubLochan/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/SubLochan/LeetCode/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/SubLochan/LeetCode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/SubLochan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/SubLochan/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SubLochan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SubLochan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
