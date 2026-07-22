@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SubLochan/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/SubLochan/LeetCode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/SubLochan/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SubLochan/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/SubLochan/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SubLochan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
