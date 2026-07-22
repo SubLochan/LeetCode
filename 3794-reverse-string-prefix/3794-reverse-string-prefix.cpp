@@ -1,9 +1,12 @@
 class Solution {
 public:
     string reversePrefix(string s, int k) {
-        string res = s.substr(0,k);
-        reverse(res.begin(),res.end());
-        return res + s.substr(k);
-        return s;
+       int l = 0 , r = k - 1;
+       while(l < r){
+        swap(s[l],s[r]);
+        l++;
+        r--;
+       }
+       return s;
     }
 };
