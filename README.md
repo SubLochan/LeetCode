@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SubLochan/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/SubLochan/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/SubLochan/LeetCode/tree/master/0053-maximum-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SubLochan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SubLochan/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SubLochan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SubLochan/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/SubLochan/LeetCode/tree/master/0060-permutation-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SubLochan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
