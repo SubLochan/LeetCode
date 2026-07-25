@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SubLochan/LeetCode/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/SubLochan/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/SubLochan/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SubLochan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SubLochan/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
