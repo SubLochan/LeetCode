@@ -146,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SubLochan/LeetCode/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/SubLochan/LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
