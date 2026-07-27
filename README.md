@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SubLochan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SubLochan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SubLochan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SubLochan/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/SubLochan/LeetCode/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SubLochan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SubLochan/LeetCode/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SubLochan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/SubLochan/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SubLochan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
