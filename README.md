@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SubLochan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/SubLochan/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SubLochan/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SubLochan/LeetCode/tree/master/0409-longest-palindrome) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SubLochan/LeetCode/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SubLochan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3174-clear-digits](https://github.com/SubLochan/LeetCode/tree/master/3174-clear-digits) |
 ## Greedy
