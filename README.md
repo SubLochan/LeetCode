@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/SubLochan/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/SubLochan/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3174-clear-digits](https://github.com/SubLochan/LeetCode/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/SubLochan/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SubLochan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3174-clear-digits](https://github.com/SubLochan/LeetCode/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3174-clear-digits](https://github.com/SubLochan/LeetCode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SubLochan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
