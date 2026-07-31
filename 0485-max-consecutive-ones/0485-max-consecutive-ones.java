@@ -1,6 +1,6 @@
 class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
-        int c = 0, mx = 0;
+        int c = 0, mx = Integer.MIN_VALUE;
         for(int el : nums){
             if(el == 1){
                 c++;
