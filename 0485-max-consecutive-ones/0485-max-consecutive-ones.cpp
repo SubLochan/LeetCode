@@ -1,8 +1,7 @@
 class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
-        int c= 0;
-        vector<int>frq;
+        int c = 0,mx = 0;
         for(int el : nums){
             if(el == 1){
                 c++;
@@ -10,9 +9,8 @@ public:
             else{
                 c = 0;
             }
-            frq.push_back(c);
+            mx = max(mx,c);
         }
-        auto mx = max_element(frq.begin(),frq.end());
-        return *mx;
+        return mx;
     }
 };
