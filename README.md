@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SubLochan/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/SubLochan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SubLochan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SubLochan/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/SubLochan/LeetCode/tree/master/1816-truncate-sentence) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/SubLochan/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/SubLochan/LeetCode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SubLochan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SubLochan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SubLochan/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SubLochan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SubLochan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/SubLochan/LeetCode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SubLochan/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
