@@ -5,7 +5,7 @@ public:
         unordered_map<int,int>mp;
         vector<int>res;
         for(int el : nums){
-            mp[el] += 1;
+            mp[el] ++;
         }
         for(auto [k,v] : mp){
             if(v > 1){
