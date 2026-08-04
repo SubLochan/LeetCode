@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SubLochan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SubLochan/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/SubLochan/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/SubLochan/LeetCode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/SubLochan/LeetCode/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
 | [3668-restore-finishing-order](https://github.com/SubLochan/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/SubLochan/LeetCode/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SubLochan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/SubLochan/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/SubLochan/LeetCode/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
 | ------- |
