@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/SubLochan/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/SubLochan/LeetCode/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/SubLochan/LeetCode/tree/master/3794-reverse-string-prefix) |
+| [3941-password-strength](https://github.com/SubLochan/LeetCode/tree/master/3941-password-strength) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
 | [3668-restore-finishing-order](https://github.com/SubLochan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/SubLochan/LeetCode/tree/master/3731-find-missing-elements) |
+| [3941-password-strength](https://github.com/SubLochan/LeetCode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/SubLochan/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
