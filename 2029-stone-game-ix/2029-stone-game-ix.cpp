@@ -3,9 +3,11 @@ public:
     bool stoneGameIX(vector<int>& stones) {
         int cnt0 = 0, cnt1 = 0, cnt2 = 0;
         for (int el : stones) {
-            if (el % 3 == 0) cnt0++;
-            else if (el % 3 == 1) cnt1++;
-            else cnt2++;
+            switch (el % 3) {
+                case 0: cnt0++; break;
+                case 1: cnt1++; break;
+                case 2: cnt2++; break;
+            }
         }
 
         if (cnt1 == 0 && cnt2 == 0) return false;
