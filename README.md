@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SubLochan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/SubLochan/LeetCode/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
+| [1207-unique-number-of-occurrences](https://github.com/SubLochan/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SubLochan/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/SubLochan/LeetCode/tree/master/1816-truncate-sentence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SubLochan/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/SubLochan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/SubLochan/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SubLochan/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SubLochan/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
