@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SubLochan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SubLochan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/SubLochan/LeetCode/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SubLochan/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SubLochan/LeetCode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/SubLochan/LeetCode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SubLochan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3174-clear-digits](https://github.com/SubLochan/LeetCode/tree/master/3174-clear-digits) |
 ## Greedy
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SubLochan/LeetCode/tree/master/0682-baseball-game) |
 | [3174-clear-digits](https://github.com/SubLochan/LeetCode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SubLochan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
