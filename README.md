@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SubLochan/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/SubLochan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SubLochan/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SubLochan/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SubLochan/LeetCode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/SubLochan/LeetCode/tree/master/3895-count-digit-appearances) |
 ## String
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/SubLochan/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3295-report-spam-message](https://github.com/SubLochan/LeetCode/tree/master/3295-report-spam-message) |
 | [3668-restore-finishing-order](https://github.com/SubLochan/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SubLochan/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SubLochan/LeetCode/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/SubLochan/LeetCode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/SubLochan/LeetCode/tree/master/3945-digit-frequency-score) |
