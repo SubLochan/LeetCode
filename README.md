@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SubLochan/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SubLochan/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/SubLochan/LeetCode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SubLochan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/SubLochan/LeetCode/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SubLochan/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SubLochan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/SubLochan/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/SubLochan/LeetCode/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/SubLochan/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SubLochan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SubLochan/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SubLochan/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/SubLochan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/SubLochan/LeetCode/tree/master/0500-keyboard-row) |
 | [1207-unique-number-of-occurrences](https://github.com/SubLochan/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SubLochan/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SubLochan/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
