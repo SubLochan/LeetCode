@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SubLochan/LeetCode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/SubLochan/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/SubLochan/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SubLochan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/SubLochan/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SubLochan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SubLochan/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SubLochan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SubLochan/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/SubLochan/LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SubLochan/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SubLochan/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
