@@ -1,12 +1,12 @@
 class Solution {
     public boolean canAliceWin(int[] nums) {
         int sd = 0 , ld = 0;
-        for(int i = 0 ; i < nums.length ; i++){
-            if(nums[i] <= 9){
-                sd += nums[i];
+        for(int num : nums){
+            if(num <= 9){
+                sd += num;
             }
             else{
-                ld += nums[i];
+                ld += num;
             }
         }
         return sd != ld;
