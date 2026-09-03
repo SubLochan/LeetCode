@@ -8,12 +8,12 @@ public:
                 mn = v;
             }
 
-            if(v & 1){
+            if(v % 2 != 0){
                 odd = true;
             }
         }
 
-        if(mn & 1){
+        if(mn % 2 != 0){
             return true;
         }
         return !odd;
