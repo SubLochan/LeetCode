@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SubLochan/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0461-hamming-distance](https://github.com/SubLochan/LeetCode/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/SubLochan/LeetCode/tree/master/0832-flipping-an-image) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SubLochan/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SubLochan/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
