@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/SubLochan/LeetCode/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/SubLochan/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/SubLochan/LeetCode/tree/master/1859-sorting-the-sentence) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SubLochan/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SubLochan/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SubLochan/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SubLochan/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SubLochan/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/SubLochan/LeetCode/tree/master/0500-keyboard-row) |
 | [1207-unique-number-of-occurrences](https://github.com/SubLochan/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SubLochan/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SubLochan/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SubLochan/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SubLochan/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SubLochan/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/SubLochan/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
