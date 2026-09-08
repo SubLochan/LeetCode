@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/SubLochan/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/SubLochan/LeetCode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SubLochan/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/SubLochan/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SubLochan/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SubLochan/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SubLochan/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/SubLochan/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/SubLochan/LeetCode/tree/master/0832-flipping-an-image) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/SubLochan/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SubLochan/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SubLochan/LeetCode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SubLochan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
