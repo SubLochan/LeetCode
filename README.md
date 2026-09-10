@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/SubLochan/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SubLochan/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SubLochan/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SubLochan/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/SubLochan/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SubLochan/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SubLochan/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SubLochan/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/SubLochan/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SubLochan/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
