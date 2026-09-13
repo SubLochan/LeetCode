@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SubLochan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/SubLochan/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/SubLochan/LeetCode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/SubLochan/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/SubLochan/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SubLochan/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/SubLochan/LeetCode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/SubLochan/LeetCode/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/SubLochan/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Combinatorics
 |  |
