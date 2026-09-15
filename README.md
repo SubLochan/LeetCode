@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/SubLochan/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/SubLochan/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/SubLochan/LeetCode/tree/master/3908-valid-digit-number) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SubLochan/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/SubLochan/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/SubLochan/LeetCode/tree/master/3959-check-good-integer) |
 ## Hash Table
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SubLochan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SubLochan/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Sorting
 |  |
 | ------- |
