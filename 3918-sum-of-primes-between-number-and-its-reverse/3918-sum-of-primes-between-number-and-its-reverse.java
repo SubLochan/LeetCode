@@ -20,7 +20,7 @@ class Solution {
         return true;
     }
     public int sumOfPrimesInRange(int n) {
-        int s = 0,rev;  boolean chk = false;
+        int s = 0,rev;  
         rev = fun(n);
         int st = Math.min(n,rev) , end = Math.max(n,rev);
         for(int i = st ; i <= end ; i++){
