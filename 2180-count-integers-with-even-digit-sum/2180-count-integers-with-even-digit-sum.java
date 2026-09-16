@@ -2,12 +2,10 @@ class Solution {
     public int countEven(int num) {
         int c = 0;
         for(int i = 1 ; i <= num ; i++){
-            if(i < 10 && i % 2 == 0){
+            if((i < 10 && i % 2 == 0) || (fun(i) == true)){
                 c++;
             }
-            else{ if(fun(i) == true)
-                c++;
-            }
+            
         }
         return c;
     }
