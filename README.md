@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SubLochan/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SubLochan/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/SubLochan/LeetCode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SubLochan/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SubLochan/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/SubLochan/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SubLochan/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SubLochan/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/SubLochan/LeetCode/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/SubLochan/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/SubLochan/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/SubLochan/LeetCode/tree/master/1025-divisor-game) |
 | [2029-stone-game-ix](https://github.com/SubLochan/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -410,10 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SubLochan/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/SubLochan/LeetCode/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SubLochan/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/SubLochan/LeetCode/tree/master/1025-divisor-game) |
 ## Depth-First Search
 |  |
 | ------- |
