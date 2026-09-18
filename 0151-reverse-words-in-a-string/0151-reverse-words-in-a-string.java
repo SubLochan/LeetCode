@@ -1,22 +1,12 @@
 class Solution {
-
-    public void swap(String[] words, int a, int b) {
-        String c = words[a];
-        words[a] = words[b];
-        words[b] = c;
-    }
-
     public String reverseWords(String s) {
-        
-        String[] words = s.trim().split("\\s+");
-
-        int l = 0, r = words.length - 1; 
-        while (l < r) {
-            swap(words, l, r);
-            l++;
-            r--;
+        String[] words = s.split("\\s+");
+        StringBuilder sb = new StringBuilder();
+        int n = words.length;
+        for(int i = n - 1 ; i >= 0 ; i--){
+            sb.append(words[i]);
+            sb.append(" ");
         }
-
-        return String.join(" ", words);
+        return sb.toString().trim();
     }
 }
