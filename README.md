@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3295-report-spam-message](https://github.com/SubLochan/LeetCode/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SubLochan/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SubLochan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3663-find-the-least-frequent-digit](https://github.com/SubLochan/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/SubLochan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SubLochan/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SubLochan/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/SubLochan/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SubLochan/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SubLochan/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/SubLochan/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3870-count-commas-in-range](https://github.com/SubLochan/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SubLochan/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SubLochan/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/SubLochan/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3295-report-spam-message](https://github.com/SubLochan/LeetCode/tree/master/3295-report-spam-message) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SubLochan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3663-find-the-least-frequent-digit](https://github.com/SubLochan/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/SubLochan/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SubLochan/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SubLochan/LeetCode/tree/master/3731-find-missing-elements) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SubLochan/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SubLochan/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/SubLochan/LeetCode/tree/master/2029-stone-game-ix) |
+| [3663-find-the-least-frequent-digit](https://github.com/SubLochan/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 ## Nim Game
 |  |
 | ------- |
