@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/SubLochan/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/SubLochan/LeetCode/tree/master/3174-clear-digits) |
 | [3295-report-spam-message](https://github.com/SubLochan/LeetCode/tree/master/3295-report-spam-message) |
+| [3498-reverse-degree-of-a-string](https://github.com/SubLochan/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/SubLochan/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3941-password-strength](https://github.com/SubLochan/LeetCode/tree/master/3941-password-strength) |
 ## Math
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SubLochan/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/SubLochan/LeetCode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SubLochan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SubLochan/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/SubLochan/LeetCode/tree/master/3959-check-good-integer) |
 ## Enumeration
 |  |
