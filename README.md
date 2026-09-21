@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SubLochan/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SubLochan/LeetCode/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SubLochan/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2485-find-the-pivot-integer](https://github.com/SubLochan/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SubLochan/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/SubLochan/LeetCode/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/SubLochan/LeetCode/tree/master/2843-count-symmetric-integers) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/SubLochan/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/SubLochan/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SubLochan/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Geometry
