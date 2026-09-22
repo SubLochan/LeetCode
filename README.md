@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/SubLochan/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SubLochan/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/SubLochan/LeetCode/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/SubLochan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SubLochan/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SubLochan/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SubLochan/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SubLochan/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/SubLochan/LeetCode/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/SubLochan/LeetCode/tree/master/2843-count-symmetric-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/SubLochan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SubLochan/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SubLochan/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SubLochan/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SubLochan/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SubLochan/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
+| [2965-find-missing-and-repeated-values](https://github.com/SubLochan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SubLochan/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/SubLochan/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3295-report-spam-message](https://github.com/SubLochan/LeetCode/tree/master/3295-report-spam-message) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SubLochan/LeetCode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/SubLochan/LeetCode/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/SubLochan/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/SubLochan/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
 | ------- |
