@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/SubLochan/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/SubLochan/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SubLochan/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/SubLochan/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SubLochan/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SubLochan/LeetCode/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/SubLochan/LeetCode/tree/master/0507-perfect-number) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/SubLochan/LeetCode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/SubLochan/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SubLochan/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SubLochan/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SubLochan/LeetCode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SubLochan/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SubLochan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/SubLochan/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/SubLochan/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/SubLochan/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SubLochan/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SubLochan/LeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/SubLochan/LeetCode/tree/master/0461-hamming-distance) |
