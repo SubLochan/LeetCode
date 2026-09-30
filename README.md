@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SubLochan/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SubLochan/LeetCode/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/SubLochan/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/SubLochan/LeetCode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/SubLochan/LeetCode/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/SubLochan/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SubLochan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubLochan/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/SubLochan/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SubLochan/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/SubLochan/LeetCode/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/SubLochan/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/SubLochan/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SubLochan/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
