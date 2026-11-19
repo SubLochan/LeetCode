@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/SubLochan/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SubLochan/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SubLochan/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2678-number-of-senior-citizens](https://github.com/SubLochan/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SubLochan/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/SubLochan/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/SubLochan/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SubLochan/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/SubLochan/LeetCode/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SubLochan/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/SubLochan/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/SubLochan/LeetCode/tree/master/3731-find-missing-elements) |
 ## String Matching
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SubLochan/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SubLochan/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/SubLochan/LeetCode/tree/master/2029-stone-game-ix) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SubLochan/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
